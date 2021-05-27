@@ -37,7 +37,7 @@ const Graph = ({}) => {
           dataKey="price"
           stroke="#F89413"
           fill="url(#graph-area-gradient)"
-          isAnimationActive={false}
+          // isAnimationActive={false}
         />
         <XAxis
           dataKey="time"
