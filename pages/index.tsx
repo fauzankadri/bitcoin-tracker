@@ -20,6 +20,7 @@ const Wrapper = styled.div`
   @media (max-width: 768px) {
     margin: 0 auto;
     border-radius: 0px;
+    min-height: calc(100vh - 100px);
   }
 `;
 
